@@ -1,0 +1,19 @@
+#imagenes{
+  background-color:#ccc;
+  width:100%;
+  position:relative;
+}
+#banner{
+  width:60%;
+  height:auto;
+  margin:auto;
+  display:block;
+}
+#perfil{
+  width:15%;
+  height:auto;
+  border-radius:50%;
+  position:absolute;
+  left:10%;
+  top:80%;
+}
