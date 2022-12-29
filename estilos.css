@@ -11,9 +11,27 @@
 }
 #perfil{
   width:15%;
+  border:2px solid grey;
   height:auto;
   border-radius:50%;
   position:absolute;
-  left:10%;
-  top:80%;
+  left:13%;
+  top:75%;
+}
+.card{
+  margin-right:10%;
+  margin-left:10%;
+}
+.card1{
+  margin-top:7%;
+}
+.card2{
+  margin-top:1%;
+  margin-bottom:10%;
+}
+.card3{
+  margin-top:1%;
+}
+#tabla1{
+  border:1px solid black;
 }
