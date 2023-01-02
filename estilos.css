@@ -1,10 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+}
 #imagenes{
   background-color:#ccc;
   width:100%;
   position:relative;
+  margin-top:1%;
 }
 #banner{
   width:60%;
+  border-radius:2%;
   height:auto;
   margin:auto;
   display:block;
@@ -32,6 +38,44 @@
 .card3{
   margin-top:1%;
 }
-#tabla1{
-  border:1px solid black;
+.list{
+  display:inline-block;
+  list-style:none;
+}
+.list img{
+  height:5em;
+}
+
+
+
+
+
+
+
+
+.contenedor-de-imagenes{
+  width:100%;
+  position:relative;
+  margin-top:1%;
+  height:370px;
+}
+#foto-banner{
+  height:auto;
+  margin:auto;
+  display:block;
+}
+#foto-perfil{
+  width:15%;
+  border:2px solid grey;
+  height:auto;
+  border-radius:50%;
+  position:absolute;
+  left:1%;
+  top:60%;
+}
+#list1{
+  display:inline-block;
+}
+#list2{
+  display:inline-block;
 }
